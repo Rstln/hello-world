@@ -1,2 +1,3 @@
 # hello-world
-programming is fun!
+Programming is fun!
+Programming in C is fun!
